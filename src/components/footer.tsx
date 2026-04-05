@@ -11,7 +11,7 @@ const Footer = () => {
             <div className="flex flex-col items-center text-center mb-6">
               <span className="text-xs text-white uppercase font-bold">Powered by</span>
               <img
-                src="/imgs/sponcer/abg.jpg"
+                src=""
                 alt="ABG Logo"
                 className="w-28 h-28 object-contain mt-4"
               />
