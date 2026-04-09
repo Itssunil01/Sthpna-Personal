@@ -1,6 +1,6 @@
 import React from "react";
 import { motion } from "framer-motion";
-import eventLeadData from "../data/eventlead";
+import eventLeadData from "../data/eventLead";
 const EventLeadCard = ({ member }: any) => {
   return (
     <div className="flex flex-col items-center text-center">
