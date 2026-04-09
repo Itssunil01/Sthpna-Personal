@@ -20,7 +20,7 @@ const Developer = [
         name: "Akash Kumar Gouda",
         position: "Developer",
         insta: "",
-        linkdin: "https://www.linkedin.com/in/sunil-kumar-bal?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ",
+        linkdin: "https://www.linkedin.com/in/akashkumargouda/",
         e_mail: "akashgouda772@gmail.com",
     },
 ]
