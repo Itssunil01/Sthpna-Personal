@@ -28,11 +28,11 @@ const EventsCard = ({ event }: EventProps) => {
   return (
     <div className="bg-white bg-opacity-0 shadow-lg overflow-hidden flex flex-col items-center text-center w-full sm:w-72 md:w-80 lg:w-96 gap-4">
       
-      <div className="w-full aspect-square overflow-hidden rounded-xl">
+      <div className="w-full flex items-center justify-center bg-black/20 rounded-xl p-3">
         <img
           src={event.img}
           alt={event.name}
-          className="w-full h-full object-cover"
+          className="max-h-full max-w-full object-contain"
         />
       </div>
 
