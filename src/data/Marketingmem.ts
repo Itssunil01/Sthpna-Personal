@@ -1,15 +1,15 @@
 const Marketingmember = [
     {
-        img: "/imgs/Videography/Tanay Banerjee.jpg",
-        name: "Tanay Banerjee",
+        img: "/imgs/MNS/ASISH.jpeg",
+        name: "Ashish Kumar Sahoo",
     },
     {
-        img: "/imgs/CW/Sourav Padhy.jpg",
-        name: "Sourav Padhy",
+        img: "/imgs/MNS/ANWESHA.jpeg",
+        name: "Anwesha Mishra",
     },
     {
-        img: "/imgs/GD/Sai Srujana Labala.jpg",
-        name: "Sai Srujana Labala",
+        img: "/imgs/MNS/BISWA.jpeg",
+        name: "Biswa Mohan Sahoo",
     },
 ]
 

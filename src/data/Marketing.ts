@@ -1,7 +1,11 @@
 const MarketingLead = [
     {
-        img: "/imgs/Leads/nishant.jpg",
-        name: "Nishant Kumar Singh",
+        img: "/imgs/MNS/PRATYUSH.jpg",
+        name: "Pratyush Kumar Nayak",
+    },
+    {
+        img: "/imgs/MNS/RAGHUVEER.jpeg",
+        name: "Raghuveer Ratha",
     },
 ]
 

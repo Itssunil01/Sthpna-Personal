@@ -1,32 +1,28 @@
 const Containwriter = [
     
     {
-        img: "/imgs/CW/AurosishKumarGuru.jpg",
-        name: "Aurosish Kumar Guru",
+        img: "/imgs/CW/BISHNU.jpeg",
+        name: "Bishnu Sahoo",
     },
     {
-        img: "/imgs/CW/Debasmita Raut .jpg",
+        img: "/imgs/CW/DEBASMITA.jpg",
         name: "Debasmita Raut",
     },
     {
-        img: "/imgs/CW/Preetyasa Rath.jpg",
-        name: "Preetyasa Rath",
-    },
-    {
-        img: "/imgs/CW/Shreyas Dash.jpg",
-        name: "Shreyas Dash",
-    },
-    {
-        img: "/imgs/CW/Sourav Padhy.jpg",
-        name: "Sourav Padhy",
-    },
-    {
-        img: "/imgs/CW/Srutika Biswal.jpg",
+        img: "/imgs/CW/SRUTIKA.jpeg",
         name: "Srutika Biswal",
     },
     {
-        img: "/imgs/CW/Swayam Das.jpg",
-        name: "Swayam Das",
+        img: "/imgs/CW/ABHAY.jpeg",
+        name: "Abhay Kumar Sahani",
+    },
+    {
+        img: "/imgs/CW/TAMANNA.jpg",
+        name: "Tamanna Nayak",
+    },
+    {
+        img: "/imgs/CW/PRAGYAN.jpeg",
+        name: "Pragyan Priyadarshinee",
     }
 ]
 

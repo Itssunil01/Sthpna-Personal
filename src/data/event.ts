@@ -1,6 +1,6 @@
 const Event = [
   {
-    img: "/imgs/Events/cad-clash.jpg",
+    img: "/imgs/Events/CAD CLASH.jpg",
     name: "Cad-Clash",
     btn: "https://forms.gle/v2ULtdqVnLyXDEzy5",
     rules: [
@@ -12,30 +12,20 @@ const Event = [
     ],
   },
   {
-    img: "/imgs/Events/puzzlequest.jpg",
+    img: "/imgs/Events/PUZZLE QUEST.jpg",
     name: "Puzzle-Quest",
+    btn: "https://forms.gle/bcgChREdGZ8kvVEVA",
+    rules: ["Rules Will Be Provided On-Spot"],
+  },
+  {
+    img: "/imgs/Events/DOODLE DYNAMICS.jpg",
+    name: "Doodle Dynamics",
     btn: "https://forms.gle/bcgChREdGZ8kvVEVA",
     rules: ["Rules Will Be Provided On-Spot"],
   },
 
   {
-    img: "/imgs/Events/Architrivia.jpg",
-    name: "Architrivia",
-    btn: "https://forms.gle/Na1tr1yeHB7r8qjA9",
-    rules: [
-      "Eligibility: Open to all interested in Civil Engineering; teams of 3 members.",
-      "Rounds:",
-      "• Round 1: Written (15 minutes, mix of MCQs, true/false, and short answers).",
-      "• Round 2: Rapid Fire (60 seconds to answer as many questions as possible; 2 points per correct answer).",
-      "Scoring:",
-      "• Points awarded for correct answers; teams with the highest scores advance.",
-      "• No external help (phones, books, etc.).",
-      "• Respectful behavior required; disruptive actions may result in disqualification.",
-      "Winning: The team with the highest score wins.",
-    ],
-  },
-  {
-    img: "/imgs/Events/cgl.jpg",
+    img: "/imgs/Events/CIVIL GOT LATENT.jpg",
     name: "Civil Got Latent",
     btn: "https://forms.gle/7WRERfm5diu6GpY96",
     rules: [
@@ -56,7 +46,7 @@ const Event = [
     ],
   },
   {
-    img: "/imgs/Events/build-a-thone.jpg",
+    img: "/imgs/Events/BUID A THON.jpg",
     name: "Build-a-thon",
     btn: "https://forms.gle/w215yQUtDCaVLsmq8",
     rules: [
@@ -80,7 +70,7 @@ const Event = [
     ],
   },
   {
-    img: "/imgs/Events/beattheclue.jpg",
+    img: "/imgs/Events/BEAT THE CLUE.png",
     name: "Beat the Clue",
     btn: "https://forms.gle/uNFVFEna56khPWKG8",
     rules: [
@@ -104,64 +94,9 @@ const Event = [
       "Tiebreaker: Sudden-death Lightning Round.",
     ],
   },
-  {
-    img: "/imgs/Events/constructive.jpg",
-    name: "Constructive-Clash",
-    btn: "https://forms.gle/xRcy9yWrNBQeA1XF8",
-    rules: [
-      "This debate format has two rounds. In Round 1, teams of two debate for and against a topic.",
-      "In Round 2, participants form groups of three and engage in a face-off debate with minimal preparation time.",
-      "",
-      "Round 1: Team Debate",
-      "• Teams: 2 participants per team (1 pro, 1 con).",
-      "• Time: 5 minutes per speaker + 5-minute crossfire.",
-      "  • Opening Statements: Each speaker presents their case (5 min each).",
-      "  • Crossfire: Direct Q&A between speakers (5 min).",
-      "• Judging Criteria: Clarity, evidence, engagement, and speaking style.",
-      "",
-      "Round 2: Group Face-Off Debate",
-      "• Teams: Same 2 participants per team as previous ones.",
-      "• Time: 10-minute crossfire.",
-      "  • Opening Statements: Each speaker presents their stance (1 min each).",
-      "  • Crossfire: Open Q&A session (9 mins).",
-      "• Judging Criteria: Argument structure, evidence, teamwork, and speaking style.",
-      "",
-      "General Rules:",
-      "• Respect: No interruptions or personal attacks.",
-      "• Time Limits: Strictly enforced.",
-    ],
-  },
-  {
-    img: "/imgs/Events/sketch-surge.jpg",
-    name: "Sketch-Surge",
-    btn: "https://forms.gle/5JYxd6ShoeAURBM27",
-    rules: [
-      "Round 1: Timed Guessing",
-      "• Team Size: 3 members per team.",
-      "• Time Limit: 60 seconds per turn.",
-      "• Gameplay:",
-      "  - One member draws a given Civil Engineering-related word while others guess.",
-      "  - A correct guess earns the team 20 points.",
-      "• Progression: The top teams move to Round 2 based on points.",
-      "",
-      "Round 2: Rapid Challenge",
-      "• Time Limit: 5 minutes per team.",
-      "• Gameplay:",
-      "  - Teams guess as many words as possible within the time limit.",
-      "• Winning Criteria: The team with the highest correct guesses wins.",
-      "",
-      "General Rules:",
-      "• No letters, numbers, or symbols in drawings.",
-      "• No verbal hints, gestures, or acting—only drawing is allowed.",
-      "• Use of Colors: Only one color (or a limited set, if specified) can be used.",
-      "• No Extra Time: Teams must guess within the time limit.",
-      "• Tiebreaker: In case of a tie in Round 2, a sudden-death round will decide the winner (each team gets one extra word to guess).",
-      "• Respect & Discipline: Misconduct or disrespect towards teams or judges may lead to disqualification.",
-    ],
-  },
 
   {
-    img: "/imgs/Events/archlens.jpg",
+    img: "/imgs/Events/ARCHLENS.png",
     name: "ARCHLENS",
     btn: "https://forms.gle/SBDYxKh9j3myxkoD8",
     rules: [
@@ -188,39 +123,6 @@ const Event = [
       "12. Judges’ Decision is Final: Any disputes will be resolved by the event organizers.",
       "",
       "Capture. Submit. Win! Let the best frame tell the story of Civil Engineering!",
-    ],
-  },
-  {
-    img: "/imgs/Events/Beyondwords.jpg",
-    name: "Nexora",
-    btn: "https://forms.gle/EBrJm4NqozgRwewM8",
-    rules: [
-      "Event Overview:",
-      "- NEXORA is a digital poster presentation competition where participants showcase civil engineering concepts through visually appealing posters.",
-      "- Each participant will present their poster in 4 minutes, explaining key ideas effectively.",
-      "- Topics include sustainable construction, smart infrastructure, and innovative materials.",
-      "- The competition enhances technical communication, creativity, and public speaking skills.",
-      "- It provides a platform for future engineers to share groundbreaking insights.",
-
-      "Team & Time Details:",
-      "- Team Size: 3 participants per team.",
-      "- Time Limit: 4 minutes for presentation + 1-minute question and answer session.",
-      "- Topic Announcement: Topics will be given a day before the scheduled event.",
-
-      "Poster Requirements:",
-      "- Format: Digital posters must be submitted in PDF or PPT format.",
-      "- Participants must ensure their posters are clear, well-designed, and technically sound.",
-
-      "Judging Criteria:",
-      "- Clarity of explanation.",
-      "- Technical content and accuracy.",
-      "- Visual design and creativity.",
-      "- Presentation skills and effectiveness in delivering ideas.",
-
-      "General Rules:",
-      "- Judges' decisions are final and binding.",
-      "- Participants must adhere to the given time limits.",
-      "- Any form of plagiarism or use of copyrighted content without permission will lead to disqualification.",
     ],
   },
 ];

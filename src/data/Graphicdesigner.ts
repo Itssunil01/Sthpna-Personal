@@ -1,56 +1,37 @@
 const GraphicDesigner = [
     {
-        img: "/imgs/GD/Adyasha Nayak.jpg",
+        img: "/imgs/GD/ADYASHA.jpg",
         name: "Adyasha Nayak",
     },
     {
-        img: "/imgs/GD/Avilipsha Mishra.jpg",
-        name: "Avilipsha Mishra",
-    },
-    {
-        img: "/imgs/GD/Bhima Chandra Tudu.jpg",
-        name: "Bhima Chandra Tudu",
-    },
-    {
-        img: "/imgs/GD/Deepankar Rout.jpg",
+        img: "/imgs/GD/DEEPANKAR.jpg",
         name: "Deepankar Rout",
     },
     {
-        img: "/imgs/GD/Dibyaseni Sethi.jpg",
-        name: "Dibyaseni Sethi",
+        img: "/imgs/GD/ROHITANSHU.jpg",
+        name: "Rohitansu Pasayat",
     },
     {
-        img: "/imgs/GD/Prachee Pradhan.jpg",
+        img: "/imgs/GD/PRACHEE.jpeg",
         name: "Prachee Pradhan",
     },
     {
-        img: "/imgs/GD/Sai Srujana Labala.jpg",
-        name: "Sai Srujana Labala",
+        img: "/imgs/GD/RASHMI.jpg",
+        name: "Rashmi Rekha Sahu",
     },
     {
-        img: "/imgs/GD/Rohitanshu Pasayat.jpg",
-        name: "Rohitanshu Pasayat",
+        img: "/imgs/GD/DIBYAM.jpeg",
+        name: "Dibyam Panda",
     },
     {
-        img: "/imgs/GD/Ruchi Pani.jpg",
-        name: "Ruchi Pani",
+        img: "/imgs/GD/SASMITA.jpeg",
+        name: "Sasmita Tudu",
     },
     {
-        img: "/imgs/GD/Sahinsa Naik.jpg",
-        name: "Sahinsa Naik",
+        img: "/imgs/GD/SEBATI.jpeg",
+        name: "Sebati Sirka",
     },
-    {
-        img: "/imgs/GD/Pragyan.jpg",
-        name: "Pragyan",
-    },
-    {
-        img: "/imgs/GD/Subrat Sahoo.jpg",
-        name: "Subrat Sahoo",
-    },
-    {
-        img: "/imgs/GD/Swagat Mohanta.jpg",
-        name: "Swagat Mohanta",
-    },
+    
 ]
 
 export default GraphicDesigner;

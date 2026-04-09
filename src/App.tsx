@@ -15,6 +15,8 @@ import Btechfirst from "./pages/Btechfirst";
 import Btechsecond from "./pages/Btechsecond";
 import Phd from "./pages/phd";
 import Achievement from "./pages/Achievements";
+import Btech2029 from "./pages/Btech2029";
+import Secretaries from "./pages/Secretaries";
 
 
 const App: React.FC = () => {
@@ -35,8 +37,10 @@ const App: React.FC = () => {
         <Route path="/students/btech/2028" element={<Btechfirst/>}/>
         <Route path="/students/btech/2026" element={<Btechprefinal/>}/>
         <Route path="/students/btech/2027" element={<Btechsecond/>}/>
+        <Route path="/students/btech/2029" element={<Btech2029 />} />
         <Route path="/students/phd" element={<Phd/>}/>
         <Route path="/academic/achievement" element={<Achievement/>}/>
+        <Route path="/students/secretaries" element={<Secretaries />} />
 
       </Routes>
       <Footer/>

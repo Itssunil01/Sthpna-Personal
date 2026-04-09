@@ -1,11 +1,15 @@
 const PhotographyLead = [
     {
-        img: "/imgs/Leads/soumya.jpg",
-        name: "Soumya Ranjan",
+        img: "/imgs/Videography/VASUDEV.jpg",
+        name: "Vasudev Gantyada",
     },
     {
-        img: "/imgs/Videography/ayushpanda.jpg",
-        name: "Ayush Panda"
+        img: "/imgs/Videography/AMAN.jpg",
+        name: "Aman Pandey"
+    },
+    {
+        img: "/imgs/Videography/SANKET.jpg",
+        name: "Sanket Kumar Pradhan"
     },
 ]
 

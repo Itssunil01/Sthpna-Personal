@@ -1,11 +1,19 @@
 const GraphicLead = [
     {
-        img: "/imgs/Leads/manish.jpg",
-        name: "Manish Sarangi",
+        img: "/imgs/GD/SWAGAT.jpeg",
+        name: "Swagat Mohanta",
     },
     {
-        img: "/imgs/Leads/pradeep.jpg",
-        name: "Pradeep Kumar Pradhan",
+        img: "/imgs/GD/BHIMA.jpeg",
+        name: "Bhima Chandra Tudu",
+    },
+    {
+        img: "/imgs/GD/AVILIPSHA.jpeg",
+        name: "Avilipsa Mishra",
+    },
+    {
+        img: "/imgs/GD/SAI.jpeg",
+        name: "Sai Srujana Labala",
     },
 ]
 

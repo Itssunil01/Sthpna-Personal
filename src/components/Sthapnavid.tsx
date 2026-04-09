@@ -80,7 +80,7 @@ const VideoSliderCard: React.FC = () => {
         {/* 🔹 Image 2 */}
         <SwiperSlide>
           <img
-            src="/imgs/Civil Engineering Society.png"
+            src="/imgs/Civil Engineering Society.jpg"
             alt="Event 2"
             className="w-full h-full object-contain rounded-lg"
           />

@@ -1,15 +1,23 @@
 const ContentWriterLead = [
     {
-        img: "/imgs/Leads/pratush.jpg",
-        name: "Pratyus Senapati",
+        img: "/imgs/CW/SWAYAM.png",
+        name: "Swayam Das",
     },
     {
-        img: "/imgs/Leads/saswati.jpg",
-        name: "Saswati Behera",
+        img: "/imgs/CW/PREETYASA.jpeg",
+        name: "Preetyasha Rath",
     },
     {
-        img: "/imgs/CW/biswabandita.jpg",
-        name: "	Biswa Bandita Swain",
+        img: "/imgs/CW/SOURAV.jpg",
+        name: "Sourav Padhy",
+    },
+    {
+        img: "/imgs/CW/SHREYAS.jpg",
+        name: "Shreyas Dash",
+    },
+    {
+        img: "/imgs/CW/AUROSISH.jpeg",
+        name: "Aurosish Kumar Guru",
     },
 ]
 
