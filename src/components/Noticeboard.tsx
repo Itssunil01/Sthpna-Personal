@@ -4,17 +4,16 @@ import { FaFilePdf, FaExternalLinkAlt } from "react-icons/fa";
 const NoticeBoardCard: React.FC = () => {
   const notices = [
     {
-      title: "Civil-Secretaries 2025",
+      title: "Civil-Secretaries 2026",
       description:
-        "Secretaries For Session of 2025",
-      // pdfLink: "https://i.postimg.cc/dt3Lb913/Civil-Secretaries-2025.png",
-      pdfLink: "",
+        "Secretaries For Session of 2026",
+      pdfLink: "https://drive.google.com/file/d/1-DFCha0styCayhYc4i9XGiKSm1ArJ0ds/view?usp=sharing",
     },
     {
       title: "Study Tour Jharsuguda",
       description:
-        "Industrial Tour For Pre-Final Year Students",
-        pdfLink: "https://i.postimg.cc/mrScfLvN/Study-Tour-Jharsuguda.png",
+        "Industrial Tour(JSW Visit) For Pre-Final Year Students",
+        pdfLink: "https://drive.google.com/file/d/1v25N6U6I9vLfvSgmLiVBNbUx7H9mtVlE/view?usp=sharing",
     },
     
   ];

@@ -9,6 +9,9 @@ import ContentWriterL from "../components/cwLead";
 import PhotographyLeadList from "../components/Photography";
 import Marketing from "../components/MarketingLead";
 import MarketMemberList from "../components/Marketing";
+import EventLeadList from "../components/eventLead";
+import EventMemberList from "../components/eventMembers";
+
 
 
 const Lead = () => {
@@ -22,7 +25,7 @@ const Lead = () => {
       {/* 🔹 Developer & Designer Section */}
       <section className="w-full flex flex-col items-center py-16 px-4">
         <h1 className="text-3xl md:text-4xl font-bold mb-8 text-center">
-         Website : Developer & Designer
+          Website : Developer & Designer
         </h1>
 
         {/* 🔹 Centered Profile Cards */}
@@ -131,8 +134,24 @@ const Lead = () => {
             <MarketMemberList />
           </div>
         </div>
+        {/* 🔹 Event Management Section */}
+        <section className="w-full flex flex-col items-center py-16 px-4">
+          <h1 className="text-3xl md:text-4xl font-bold text-center mb-10">
+            Event Management & Hospitality
+          </h1>
 
-        
+          {/* Leads */}
+          <div className="w-full max-w-4xl flex flex-col items-start">
+            <h2 className="text-2xl font-bold mb-6 ml-6">LEADS :</h2>
+            <EventLeadList />
+          </div>
+
+          {/* Members */}
+          <div className="w-full max-w-4xl flex flex-col items-start mt-10">
+            <h2 className="text-2xl font-bold mb-6 ml-6">MEMBERS :</h2>
+            <EventMemberList />
+          </div>
+        </section>
       </section>
     </div>
   );

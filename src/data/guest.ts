@@ -1,12 +1,9 @@
 const Guests = [
     {
-        img: "/imgs/Events/civiltalk.jpg",
+        img: "/imgs/Events/civiltalk.png",
         name: "Civil-Talk",
     },
-    {
-        img: "/imgs/Events/streetscape.jpg",
-        name: "Street-Scape",
-    },
+  
 ]
 
 export default Guests;

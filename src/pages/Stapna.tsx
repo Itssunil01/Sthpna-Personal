@@ -59,9 +59,9 @@ const Stapna = () => {
           }}
         >
           <img
-            src="./imgs/sthapna 2025.png"
+            src="./imgs/Sthapna.png"
             alt="Sthapna 2025"
-            className="w-auto h-[150px] sm:h-[200px] md:h-[300px] lg:h-[400px] xl:h-[450px] mx-auto"
+            className="w-auto h-[200px] sm:h-[260px] md:h-[380px] lg:h-[480px] xl:h-[550px] mx-auto"
           />
           <TypingText text="Where Tradition Meets Technology" />
         </motion.div>

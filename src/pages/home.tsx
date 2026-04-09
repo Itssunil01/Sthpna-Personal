@@ -95,7 +95,7 @@ function Home() {
             <div className="w-full flex justify-center md:justify-end">
               <div className="p-2 border rounded-md border-red-600">
                 <img
-                  src="https://www.vssut.ac.in/faculty/sudhanshu-sekhar-das_photo1449813234.jpg"
+                  src="https://d2fg70os21r9ma.cloudfront.net/32/BolDz6X11XnPRJdc"
                   alt="civil-hod"
                   className="w-[150px] sm:w-[250px] rounded-md object-cover"
                 />
@@ -105,7 +105,7 @@ function Home() {
             <div className="col-span-1 md:col-span-2">
               <h1 className="font-bold text-xl mb-2">HEAD OF DEPARTMENT</h1>
               <h2 className="font-bold text-lg mb-2">
-                Prof. Sudhanshu Sekhar Das
+                Dr. Ramakant Panigrahi
               </h2>
               <p className="text-gray-300 text-justify">
                 Welcome to the Department of Civil Engineering at VSSUT, Burla.
@@ -124,41 +124,6 @@ function Home() {
             </div>
           </motion.div>
 
-          {/* HOP Card */}
-          <motion.div
-            className="p-4 bg-white/10 backdrop-blur-lg border border-white/20 shadow-lg rounded-md grid grid-cols-1 md:grid-cols-3 gap-10 md:gap-20 items-center"
-            initial={{ x: 100, opacity: 0 }}
-            animate={{ x: 0, opacity: 1 }}
-            transition={{ duration: 1.8, delay: 1.7, ease: easeInOut }}
-          >
-            {/* HOP Details */}
-            <div className="col-span-1 md:col-span-2 order-2 md:order-1">
-              <h1 className="font-bold text-xl mb-2">HEAD OF PROGRAMME</h1>
-              <h2 className="font-bold text-lg mb-2">Dr. Debabrata Giri</h2>
-              <p className="text-gray-300 text-justify">
-                At the Civil Engineering Department of VSSUT, Burla, we believe
-                in participative learning and cross-cultural collaboration to
-                prepare students for real-world challenges. Through industry
-                partnerships and innovative research, we empower our students to
-                develop solutions that benefit both society and the environment.
-                Let’s continue striving for academic and professional
-                excellence.With advanced labs and dedicated faculty, we focus on
-                building technical skills, leadership, and ethical practices.
-                Our goal is to produce skilled, socially responsible civil
-                engineers ready to drive sustainable development globally.
-              </p>
-            </div>
-            {/* HOP Image */}
-            <div className="w-full flex justify-center md:justify-start order-1 md:order-2">
-              <div className="p-2 border rounded-md border-red-600">
-                <img
-                  src="https://www.vssut.ac.in/faculty/debabrata-giri_photo1688963757.jpg"
-                  alt="civil-hop"
-                  className="w-[150px] sm:w-[250px] rounded-md object-cover"
-                />
-              </div>
-            </div>
-          </motion.div>
 
           {/* Faculty Advisor Card */}
           <motion.div
@@ -171,7 +136,7 @@ function Home() {
             <div className="w-full flex justify-center md:justify-end">
               <div className="p-2 border rounded-md border-red-600">
                 <img
-                  src="https://www.vssut.ac.in/faculty/ramkrishna-dandapat_photo1480014219.jpg"
+                  src="https://d2fg70os21r9ma.cloudfront.net/62/WdU8qECWASYv2iyU"
                   alt="faculty-advisor"
                   className="w-[150px] sm:w-[250px] rounded-md object-cover"
                 />
@@ -229,7 +194,7 @@ function Home() {
             <div className="w-full flex justify-center md:justify-start order-1 md:order-2">
               <div className="p-2 border rounded-md border-red-600">
                 <img
-                  src="https://www.vssut.ac.in/faculty/rupashree-ragini-sahoo1413636602.jpg"
+                  src="https://d2fg70os21r9ma.cloudfront.net/8255/tWv6LWymkHugE1d4"
                   alt="Fculty advisor"
                   className="w-[150px] sm:w-[250px] rounded-md object-cover"
                 />

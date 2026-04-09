@@ -2,20 +2,48 @@
 @tailwind components;
 @tailwind utilities;
 
-/* Hide scrollbar but keep scrolling enabled */
 .custom-scrollbar-hidden {
-    scrollbar-width: none; /* Firefox */
-    -ms-overflow-style: none; /* Internet Explorer/Edge */
-  }
-  
-  .custom-scrollbar-hidden::-webkit-scrollbar {
-    display: none; /* Chrome, Safari */
-  }
-  
-body{
+  scrollbar-width: none; 
+  -ms-overflow-style: none; 
+}
+
+.custom-scrollbar-hidden::-webkit-scrollbar {
+  display: none; 
+}
+
+/* Background */
+body {
   background-image: url('/imgs/Konark-Sun-Temple-Wheel.png');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: fixed;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes scaleIn {
+  from {
+    transform: scale(0.9);
+    opacity: 0;
+  }
+  to {
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+
+.animate-fadeIn {
+  animation: fadeIn 0.3s ease-out;
+}
+
+.animate-scaleIn {
+  animation: scaleIn 0.3s ease-out;
 }

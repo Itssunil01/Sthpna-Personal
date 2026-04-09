@@ -46,12 +46,6 @@ const CoordinatorCard = ({ coordinator }: CoordinatorProps) => {
         >
           <FaLinkedin />
         </a>
-        <a
-          href={`mailto:${coordinator.email}`}
-          className="hover:text-yellow-500 transition"
-        >
-          <FaEnvelope />
-        </a>
       </div>
     </motion.div>
   );
