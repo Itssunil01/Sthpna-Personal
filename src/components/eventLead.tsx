@@ -1,6 +1,6 @@
 import React from "react";
 import { motion } from "framer-motion";
-import EventLead from "../data/eventLead";
+import eventLeadData from "../data/eventlead";
 const EventLeadCard = ({ member }: any) => {
   return (
     <div className="flex flex-col items-center text-center">
@@ -28,7 +28,7 @@ const EventLeadCard = ({ member }: any) => {
 const EventLeadList = () => {
   return (
     <div className="flex flex-wrap justify-center gap-6">
-      {EventLead.map((lead, index) => (
+      {eventLeadData.map((lead, index) => (
         <EventLeadCard key={index} member={lead} />
       ))}
     </div>
