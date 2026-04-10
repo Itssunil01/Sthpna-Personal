@@ -79,3 +79,13 @@ export type Marketingmember = {
   img: string;
   name: string;
 }
+
+export type DecorationLead = {
+  img: string;
+  name: string;
+};
+
+export type DecorationMembers = {
+  img: string;
+  name: string;
+};

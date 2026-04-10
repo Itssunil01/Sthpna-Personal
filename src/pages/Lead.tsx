@@ -7,6 +7,8 @@ import CoordinatorsList from "../components/coordinators";
 import VideographyList from "../components/vedioGraphy";
 import ContentWriterL from "../components/cwLead";
 import PhotographyLeadList from "../components/Photography";
+import DecorationLeadList from "../components/decorationLead";
+import DecorationMemberList from "../components/decorationMembers";
 import Marketing from "../components/MarketingLead";
 import MarketMemberList from "../components/Marketing";
 import EventLeadList from "../components/eventLead";
@@ -110,7 +112,24 @@ const Lead = () => {
             <VideographyList />
           </div>
         </div>
+        {/* 🔹 Decoration Section */}
+        <section className="w-full flex flex-col items-center py-16 px-4">
+          <h1 className="text-3xl md:text-4xl font-bold text-center mb-10">
+            Decoration & Design
+          </h1>
 
+          {/* Leads */}
+          <div className="w-full max-w-4xl flex flex-col items-start">
+            <h2 className="text-2xl font-bold mb-6 ml-6">LEADS :</h2>
+            <DecorationLeadList />
+          </div>
+
+          {/* Members */}
+          <div className="w-full max-w-4xl flex flex-col items-start mt-10">
+            <h2 className="text-2xl font-bold mb-6 ml-6">MEMBERS :</h2>
+            <DecorationMemberList />
+          </div>
+        </section>
 
         <h1 className="text-3xl md:text-4xl font-bold text-center my-10 mt-32">
           Marketing & Sponsorship
