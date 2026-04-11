@@ -19,7 +19,7 @@ function Home() {
               animate={{ x: 0, opacity: 1 }}
               transition={{ duration: 1, delay: 0.5, ease: easeInOut }}
             >
-              "Stacking The Bricks,
+              "Legacy To Lazer :
             </motion.h1>
             <motion.h1
               className="text-3xl sm:text-6xl font-serif font-bold ml-28"
@@ -28,7 +28,7 @@ function Home() {
               transition={{ duration: 1, delay: 0.5, ease: easeInOut }}
             >
               {" "}
-              Building The Future"
+              From Heritage To Hi-Tech"
             </motion.h1>
           </div>
         </div>
